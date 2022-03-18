@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.tplborder, .link, .link-2 {
+  font-size: 100px;
+  border-bottom: 5px dashed red;
+}
+
+.block {
+  width: 31.25%;
+  background: #777;
+  padding: 30px;
+  line-height: 50px;
+}
+.block .block_text {
+  font-size: 90px;
+}
+.block span {
+  color: green;
+}
+
+.link {
+  font-size: 70px;
+  color: black;
+  color: green;
+  text-decoration: underline;
+  font-size: 90px;
+}
+.block .link {
+  font-size: 90px;
+}
+.link:hover {
+  color: yellow;
+}
+
+.link-2 {
+  font-size: 100px;
+  color: yellow;
+  font-size: 80px;
+  border-bottom: 5px solid #000;
+}
+
+/*# sourceMappingURL=style.css.map */
